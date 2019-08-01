@@ -1,8 +1,10 @@
 this is my first git push,so please come in
 Git is the first step to learn linux
-tks
+thanks 
 
-this is my second tim to edit this txt file ,which to understand how to use git for version manage
-mmda
+this is my second time to edit this txt file ,which to understand how to use git for version manage
+memeda
+
+this is third time to edit this txt file,which for repair word --'time','tks' and add  third commit in this file
 
 
